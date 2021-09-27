@@ -1,0 +1,23 @@
+body{
+    background-image: url('../Bildene/Toyen_torg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+/* Lager bakgrunnen til nettsiden */
+
+.tekst{
+    color: white;
+}
+/* Endrer fargen på teksten til hvit */
+
+.lenke{
+    color: aqua;
+}
+/* Endrer fargen på lenken til lyseblå */
+
+video{
+    width: 320;
+    height: 200;
+}
+/* Endrer størrelsen på videoen */
